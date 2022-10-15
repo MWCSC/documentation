@@ -8,23 +8,25 @@ The message can be a string, or any other object, which will then be outputed fo
 
 Code: `print("Hello World")`
 
-Output: `Hello World`   
+Output: `Hello World`
  
 Messages in the `"" ""` (quotation marks) are printed literally.
 
 # Passing a string message through a variable
 
-Code:  
-`message = "Hello World"`  
-`print(message)`
-      
+Code: 
+```
+message = "Hello World"
+print(message)
+```
 Output: `Hello World`
 
-Code:  
-`message = 5`  
-`print(message)`
-      
-Output: `5`  
+Code: 
+```
+message = 5
+print(message)
+```
+Output: `5` 
 
 The stored value in the variable, in this case the variable `message` holds the value `5`, is outputed by coding `print(message)`.
 
@@ -32,17 +34,21 @@ The stored value in the variable, in this case the variable `message` holds the 
 
 # Using **string(s)** and **variable(s)** in `print()`
 
-Code:  
-`a = 5`  
-`print("a=", a)`
+Code: 
+```
+a = 5 
+print("a=", a)
+```
 
 Output: `a= 5`
 
 The `,` (comma) can be used to combine values in the `print()` function. A space will be used between the messages.
 
-Code:  
-`a = 5`  
-`print("a="+a)`
+Code: 
+```
+a = 5
+print("a="+a)
+```
 
 Output: `a=5`
 
