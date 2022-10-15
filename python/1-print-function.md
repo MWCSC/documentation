@@ -14,6 +14,7 @@ Output: `Hello World`
 
 ### Passing a message through a variable
 
-Code: `message = "Hello World" <br /> print(message)`
+Code: `message = "Hello World"'
+'print(message)`
       
 Output: `Hello World`
