@@ -6,37 +6,49 @@ Math inbuilt functions are operations that are built into the Python language. T
 
 Function: Addition
 
-Usage: `variable + variable`
+Usage: `2 + 2`
+
+Returns: `4`
 
 # - 
 
 Function: Subtraction
 
-Usage: `variable - variable`
+Usage: `2 - 2`
+
+Returns: `0`
 
 # /
 
 Function: Division
 
-Usage: `variable / variable`
+Usage: `4 / 2`
+
+Returns: `2`
 
 # *
 
 Function: Multiplication
 
-Usage: `variable * variable`
+Usage: `2 * 2`
+
+Returns: `4`
 
 # **
 
 Function: Exponents
 
-Usage: `variable ** variable`
+Usage: `2 ** 3`
+
+Returns: `8`
 
 # %
 
 Function: Return remainder
 
-Usage: `variable % variable`
+Usage: `10 % 3`
+
+Returns: `1`
 
 
 ~ Slate
