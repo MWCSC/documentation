@@ -8,5 +8,5 @@ Here are the docs written so far:
 
 ### Math inbuilt functions
 
-- [In-built Math Functions](./inbuilt-math-functions.md)
+- [In-built Math Functions](./2-inbuilt-math-functions.md)
 
