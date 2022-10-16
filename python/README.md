@@ -4,6 +4,7 @@ Here are the docs written so far:
 
 ### Basic inbuilt functions
 
+- [Variables](./0-variables-data-types.md)
 - [Print Function](./1-print-function.md)
 - [In-built Math Functions](./2-inbuilt-math-functions.md)
 
