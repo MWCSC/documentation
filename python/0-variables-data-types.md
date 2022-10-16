@@ -14,7 +14,7 @@ Variable values can also be changed. So if you set a variable value at the start
 
 To declare a variable, simply choose a name and a value. Then assign the value to the name using a `=` sign.
 Example:
-```
+```py
 message = 'Hello World!'
 ```
 Here, the name of the variable is `message` and the value is `Hello World`. The quotes show that this is a string data type.

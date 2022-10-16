@@ -15,14 +15,14 @@ Messages in the `"" ""` (quotation marks) are printed literally.
 # Passing a string message through a variable
 
 Code: 
-```
+```py
 message = "Hello World"
 print(message)
 ```
 Output: `Hello World`
 
 Code: 
-```
+```py
 message = 5
 print(message)
 ```
@@ -35,7 +35,7 @@ The stored value in the variable, in this case the variable `message` holds the 
 # Using **string(s)** and **variable(s)** in `print()`
 
 Code: 
-```
+```py
 a = 5 
 print("a=", a)
 ```
@@ -45,7 +45,7 @@ Output: `a= 5`
 The `,` (comma) can be used to combine values in the `print()` function. A space will be used between the messages.
 
 Code: 
-```
+```py
 a = 5
 print("a="+a)
 ```
@@ -59,7 +59,7 @@ Notice the difference between the `,`(comma) and the `+`(addition symbol). `+`  
 The `print()` function also allows mathematical operations to be done in the function
 
 Code:
-```
+```py
 print(5+5)
 ```
 Output: `10`
