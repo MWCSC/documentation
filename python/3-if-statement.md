@@ -2,7 +2,7 @@
 
 The `if` statement is a staple statement among nearly every programming language. All it does it check a condition, and if the condition is true, the code within the statement is executed. Here's a breakdown:
 
-```
+```py
 if (2 == 2):
     print('2 is equal to 2!')
 ```
@@ -12,7 +12,7 @@ Since 2 is equal to 2, the program would output `2 is equal to 2!`.
 
 However, we can also use the `if` function to check multiple conditions at the same time. This can be acheived using the `and` keyword. Here's a breakdown:
 
-```
+```py
 if (4 > 2 and 3 > 1):
     print('Hi there!')
 ```
@@ -20,7 +20,7 @@ The statement `Hi there!` will only be printed if both the conditions are true. 
 
 We can also use the `if` function to check multiple conditions independently of each other. This can be acheived using the `or` keyword. Here's a breakdown:
 
-```
+```py
 if (5 > 10 or 2 == 2):
     print('Hello!')
 ```
