@@ -65,3 +65,5 @@ print(5+5)
 Output: `10`
 
 Similarly, `-`, `*`, `/`, and other math operations can be used similarly. For more information on math operations, view [In-built Math Functions](./2-inbuilt-math-functions.md)
+
+~Ryan Alumkal
