@@ -53,3 +53,15 @@ print("a="+a)
 Output: `a=5`
 
 Notice the difference between the `,`(comma) and the `+`(addition symbol). `+`  combines values without the use of a space inbetween.
+
+# Mathematical Operations in `print()`
+
+The `print()` function also allows mathematical operations to be done in the function
+
+Code:
+```
+print(5+5)
+```
+Output: `10`
+
+Similarly, `-`, `*`, `/`, and other math operations can be used similarly. For more information on math operations, view [In-built Math Functions](./2-inbuilt-math-functions.md)
