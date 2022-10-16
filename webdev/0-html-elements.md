@@ -44,7 +44,7 @@ Code:
 
 Output:
 
-![](html_elements.png)
+![](./media/html_elements.png)
 
 
 ~Nolawi
