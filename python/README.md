@@ -7,7 +7,8 @@ Here are the docs written so far:
 - [Variables](./0-variables-data-types.md)
 - [Print Function](./1-print-function.md)
 - [In-built Math Functions](./2-inbuilt-math-functions.md)
-
+- [If Statements](./3-if-statement.md)
+- [Else & Elif Statements](./4-else-statement.md)
 
 ### Resources
 
