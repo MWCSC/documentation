@@ -33,6 +33,7 @@ Data types are the different ways that data is defined. For example, numbers are
 |Integer|Whole numbers|42|`message = 42`|
 |Float|Decimal Numbers|42.0|`message = 42.0`|
 |Boolean|True or False value|True|`message = True`|
+|List|A collection of other data|apples,5,2.0,True|`values = ['apples',5,2.0,True]`|
 
 ### Why do data types exist?
 

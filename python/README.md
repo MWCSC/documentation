@@ -9,6 +9,8 @@ Here are the docs written so far:
 - [In-built Math Functions](./2-inbuilt-math-functions.md)
 - [If Statements](./3-if-statement.md)
 - [Else & Elif Statements](./4-else-statement.md)
+- [For loop](./5-for-loop.md)
+- [While loop](./6-while-loop.md)
 
 ### Resources
 
