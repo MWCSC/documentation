@@ -11,6 +11,7 @@ Here are the docs written so far:
 - [Else & Elif Statements](./4-else-statement.md)
 - [For loop](./5-for-loop.md)
 - [While loop](./6-while-loop.md)
+- [Input Function](./7-input-function.md)
 
 ### Resources
 

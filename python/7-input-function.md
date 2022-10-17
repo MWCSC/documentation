@@ -26,6 +26,6 @@ age = int(input('What is your age?')
 ```
 `Output: 12` (integer)
 
-To learn more about data types, see the [Data Types Guide](../0-variables-data-types.md#data-types)
+To learn more about data types, see the [Data Types Guide](./0-variables-data-types.md#data-types)
 
 ~ Slate
