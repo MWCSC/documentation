@@ -26,6 +26,15 @@ age = int(input('What is your age?')
 ```
 `Output: 12` (integer)
 
+Here is a full example:
+
+```py
+name = input('What is your name?')
+age = int(input('What is your age?')
+
+print('Your name is ' + name + ' and your age is ' + str(age))
+```
+
 To learn more about data types, see the [Data Types Guide](./0-variables-data-types.md#data-types)
 
 ~ Slate
