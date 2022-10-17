@@ -6,12 +6,12 @@ A component of an HTML document that tells a web browser how to structure a part
 ## Components of an HTML element
 An HTML element includes a start tag, content, and an end tag.
 
-```
+```html
 <tagname> Content </tagname>
 ```
 
 ## Important HTML elements
-```
+```html
 <!DOCTYPE html> -declares the document as HTML5 (should be at the top of every HTML document)
 
 <html> -is the container for all other HTML elements except for the <!DOCTYPE> tag
@@ -29,7 +29,7 @@ An HTML element includes a start tag, content, and an end tag.
 ---
 ## Sample
 Code:
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
