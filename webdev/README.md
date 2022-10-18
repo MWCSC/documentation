@@ -8,3 +8,4 @@ Here are the guides written so far:
 
 - [HTML Elements](./0-html-elements.md)
 - [HTML Elements 2](./1-html-elements-2.md)
+- [HTML Elements 3](./2-html_elements_3.md)
