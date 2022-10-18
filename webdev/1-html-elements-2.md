@@ -47,7 +47,7 @@ Code:
 </body>
 ```
 
-Output:
+Output: 
 
 ![Links](./media/html_elements2_link.png)
 
