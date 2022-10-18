@@ -16,7 +16,7 @@ An HTML element includes a start tag, content, and an end tag.
 
 <html> -is the container for all other HTML elements except for the <!DOCTYPE> tag
 
-<head> -contains specific information about a web page which is known as metadata. 
+<head> -contains specific information about a web page which is known as metadata 
 
 <title> -declares the title of the html document
 
