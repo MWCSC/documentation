@@ -7,3 +7,4 @@ For Python guides, see the [Python Documentation](../python/).
 Here are the guides written so far:
 
 - [HTML Elements](./0-html-elements.md)
+- [HTML Elements 2](./1-html-elements-2)
