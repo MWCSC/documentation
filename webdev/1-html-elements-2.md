@@ -23,7 +23,7 @@ Code:
 
 Output:
 
-![](html_elements2_image.png)
+![Images](./media/html_elements2_image.png)
 
 ---
 ## Links
@@ -49,7 +49,7 @@ Code:
 
 Output:
 
-![](html_elements2_link.png)
+![Links](./media/html_elements2_link.png)
 
 ---
 
