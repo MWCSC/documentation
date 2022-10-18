@@ -36,6 +36,7 @@ Code:
 ```
 
 Output:
+
 ![Output](./media/html_elemetns3.png)
 
 ~Nolawi
