@@ -5,6 +5,16 @@ Find documentation on python, webdev, and more here. The one-and-all resource fo
 If you need it, it's here.
 
 
+## Table of Contents
+
+|Name|Description|
+|----|-----------|
+|[About](./mwcc/about.md)|About Page|
+|[Resources](./mwcc/resources.md)|Necessary Development Resources|
+|[Python Documentation](./python)|Documentation and resources for all teams|
+|[Web Development Documentation](./webdev)|Documentation and resources for beginners learning HTML, CSS and JS|
+
+
 ### Contribution Guide
 
 If you want to contribute work to the documentation, please follow the following rules:
