@@ -13,16 +13,19 @@ To connect the css to the html document, add a link in the `<head>` tag your htm
 </head>
 </html>
 ```
----
-## `<div>` elements in html
-`<div>` elements are used to section code and layout/decorate them individually in css.
 
-## Components of a `<div>` tag
-```html
-<div class="div_name">Content goes here</div>
+## Components of a css element
+
+```css
+selector {
+  property: value;
+  property: value;
+}
 ```
 
-## Sample
+---
+## Sample:
+
 Code:
 
 HTML document: (index.html)
@@ -30,11 +33,13 @@ HTML document: (index.html)
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Introduction to CSS</title>
   <link rel="stylesheet" href="styles.css">
 </head> 
 <body>
 
-<div class="example"><p>This is a paragraph.</p></div>
+<h1>This is the first heading</h1>
+<h2>This is the second heading</h2>
 
 </body>
 </html>
@@ -42,9 +47,14 @@ HTML document: (index.html)
 
 CSS document: (styles.css)
 ```css
-.example{
-    font-size: 20px;
-    color:rgb(255,255,0);
+h1{
+  color:blue;
+  font-size: 40px;
+}
+
+h2{
+  background-color: red;
+  font-size: 10px
 }
 ```
 
