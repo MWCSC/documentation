@@ -60,6 +60,6 @@ p{
 ```
 Output: 
 
-![](media/css_elements_2.png)
+![Output](media/css_elements_2.png)
 
 ~Nolawi

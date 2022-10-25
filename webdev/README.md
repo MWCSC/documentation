@@ -11,3 +11,4 @@ Here are the guides written so far:
 - [HTML Elements 3](./2-html_elements_3.md)
 - [Introduction to CSS](./3-intro_to_css.md)
 - [CSS elements](4-css_elements.md)
+- [CSS elements 2](5-css_elements_2.md)
