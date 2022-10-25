@@ -31,3 +31,5 @@ python3 -m pip install pandas
 # How to use libaries
 
 The use of libariries depends on that libary, for more information, it is best to refer to its specified document. 
+
+~Ryan Alumkal
