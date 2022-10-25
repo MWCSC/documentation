@@ -22,4 +22,12 @@ To install libaries on Python, the following command needs to ran in the cmd ter
 ```sh
 python3 -m pip install
 ```
-Followed by the name of your desired library.
+Your desired library follows this command. For example:
+
+```sh 
+python3 -m pip install pandas
+```
+
+# How to use libaries
+
+The use of libariries depends on that libary, for more information, it is best to refer to its specified document. 
