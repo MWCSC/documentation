@@ -12,6 +12,8 @@ Here are the docs written so far:
 - [For loop](./5-for-loop.md)
 - [While loop](./6-while-loop.md)
 - [Input Function](./7-input-function.md)
+- [Import and Libraries](./8-import-and-libraries.md)
+- [Comments](./9-comments.md)
 
 ### Resources
 
