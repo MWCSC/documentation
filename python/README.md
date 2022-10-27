@@ -14,6 +14,8 @@ Here are the docs written so far:
 - [Input Function](./07-input-function.md)
 - [Import and Libraries](./08-import-and-libraries.md)
 - [Comments](./09-comments.md)
+- [Functions](./10-functions.md)
+- [Classes](./11-classes.md)
 
 ### Resources
 
