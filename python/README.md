@@ -19,4 +19,4 @@ Here are the docs written so far:
 
 ### Resources
 
-For more information on Python, visit [Python.org](https://docs.python.org/3/)
+For more in-depth information on Python and the various other possibilites, visit [Python.org](https://docs.python.org/3/)
