@@ -2,7 +2,7 @@
 
 Here are the docs written so far:
 
-### Basic inbuilt functions
+### Python Basics
 
 - [Variables](./0-variables-data-types.md)
 - [Print Function](./01-print-function.md)
