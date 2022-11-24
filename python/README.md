@@ -15,7 +15,6 @@ Here are the docs written so far:
 - [Import and Libraries](./08-import-and-libraries.md)
 - [Comments](./09-comments.md)
 - [Functions](./10-functions.md)
-- [Classes](./11-classes.md)
 - [Math Module](./12-math-module.md)
 
 ### Resources
